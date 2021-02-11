@@ -1,8 +1,8 @@
 {
-  "title": "hello",
-  "description": "",
+  "title": "hello-world",
+  "description": "kubernetes",
   "difficulty": "Beginner",
-  "time": "60",
+  "time": "20",
   "details": {
     "steps": [
       {
@@ -25,6 +25,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "openjdk:11"
+    "imageid": "minikube-running"
   }
 }
